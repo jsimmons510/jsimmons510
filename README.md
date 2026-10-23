@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**jsimmons510/jsimmons510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **jsimmons510**. I build web apps and crypto projects.
 
-Here are some ideas to get you started:
+### 🔨 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**poly-girl**](https://github.com/jsimmons510/poly-girl): a gothic girl themed coin project (work in progress)
+
+### 🧰 Tools I work with
+
+TypeScript · React · Node.js · Vite · Tailwind CSS · tRPC · Stripe
+
+### 📫 Get in touch
+
+Open an issue on any of my repos, or find me here on GitHub.
